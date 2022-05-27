@@ -1,11 +1,9 @@
 ### Hi there 👋, I'm Rahul Patel
 
-- 🔭 I’m currently working on Building my Portfolio
+- 🔭 I’m currently pursuing BE in Information Technology from UIET, Panjab University, Chandigarh
 - 🌱 I’m currently learning Google Data Analytics Professional Certificate
 - 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m looking for help with data analyst
-- 💬 Ask me about sql, data analysis,python
-- 📫 How to reach me: LinkedIn - @
+- 📫 How to reach me: LinkedIn - @https://www.linkedin.com/in/rahul-patel-933858175/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend lot of time listning 90's bollywood songs 
 
