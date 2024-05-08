@@ -9,11 +9,11 @@
       data science.
 - 🔭 I have completed BE(Bachelor of Engineering) in Information Technology from UIET (2022 Batch), Panjab University, Chandigarh
 - 🌱 I have also successfully completed:
-      - **Python from Zero to Hero: Mastered Python programming.**, 
-      - **Google Data Analytics Professional Certification: Certified in Google Data Analytics.**, 
-      - **AWS Certified Cloud Practitioner: Certified in AWS cloud computing fundamentals.**, 
-      - **Machine Learning A-Z: AI, Python: Completed comprehensive ML course in Python.**, 
-      - **Amazon Connect Complete Training Course: Completed training in Amazon Connect.**
+      * **Python from Zero to Hero: Mastered Python programming.**, 
+      * **Google Data Analytics Professional Certification: Certified in Google Data Analytics.**, 
+      * **AWS Certified Cloud Practitioner: Certified in AWS cloud computing fundamentals.**, 
+      * **Machine Learning A-Z: AI, Python: Completed comprehensive ML course in Python.**, 
+      * **Amazon Connect Complete Training Course: Completed training in Amazon Connect.**
 - 👯 I’m looking to collaborate on LinkedIn
 - 📫 How to reach me: LinkedIn - @https://www.linkedin.com/in/rahul-patel-933858175/
 - 😄 Pronouns: He/His
