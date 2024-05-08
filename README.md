@@ -8,7 +8,7 @@
 - 🔭 Currently pursuing a comprehensive **Complete Machine Learning & Data Science Program by GFG** covering essential concepts and practical applications in machine learning and 
       data science.
 - 🔭 I have completed BE(Bachelor of Engineering) in Information Technology from UIET (2022 Batch), Panjab University, Chandigarh
-- 🌱- 🌱 I have also successfully completed:
+- 🌱 I have also successfully completed:
   * **Complete Machine Learning & Data Science Program by GFG**: Ongoing program covering ML and data science.
   * **Python from Zero to Hero**: Mastered Python programming.
   * **Google Data Analytics Professional Certification**: Certified in Google data analytics.
