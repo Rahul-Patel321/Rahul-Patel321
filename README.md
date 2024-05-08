@@ -5,7 +5,7 @@
       dedication to remaining abreast of emerging technology trends. Demonstrating a fervent commitment to
       continuous learning and the integration of innovative solutions.
 
-- 🔭 Currently pursuing a comprehensive **Complete Machine Learning & Data Science Program by GFG** covering essential concepts and practical applications in machine learning and 
+- 🔭 Currently pursuing a comprehensive **Complete Machine Learning & Data Science Program by GFG(Geeks For Geeks)** covering essential concepts and practical applications in machine learning and 
       data science.
 - 🔭 I have completed BE(Bachelor of Engineering) in Information Technology from UIET (2022 Batch), Panjab University, Chandigarh
 - 🌱 I have also successfully completed:
