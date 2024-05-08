@@ -15,7 +15,7 @@
   * **AWS Certified Cloud Practitioner**: Certified in AWS cloud computing fundamentals.
   * **Machine Learning A-Z: AI, Python**: Completed comprehensive ML course in Python.
   * **Amazon Connect Complete Training Course**: Completed training in Amazon Connect.
-- 👯 I’m looking to collaborate on LinkedIn
+- 👯 Seeking to transition into a Data Scientist, Data Analyst, or Machine Learning Engineer role, leveraging my diverse experience and       expertise gained as a Software Engineer at HCL Technologies. Eager to apply my proficiency in Python, Data Science, Machine Learning       & AI, SQL, Data Analytics, AWS, and DSA to drive impactful solutions and contribute to the success of innovative projects within a       dynamic team environment.
 - 📫 How to reach me: LinkedIn - @https://www.linkedin.com/in/rahul-patel-933858175/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend a lot of time listening 90's Bollywood songs 
