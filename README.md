@@ -1,8 +1,18 @@
 ### Hi there 👋, I'm Rahul Patel
 
-- 🔭 I am a Software Engineer at HCL technology
+- 🔭 A Software Engineer at HCL Technologies with a passion for problem-solving and innovation.
+      Skilled in Python, Data Science, Machine Learning & AI, SQL, Data Analytics, AWS, and DSA, with a strong
+      dedication to remaining abreast of emerging technology trends. Demonstrating a fervent commitment to
+      continuous learning and the integration of innovative solutions.
+
+- 🔭 Currently pursuing a comprehensive **Complete Machine Learning & Data Science Program by GFG** covering essential concepts and practical applications in machine learning and 
+      data science.
 - 🔭 I have completed BE(Bachelor of Engineering) in Information Technology from UIET (2022 Batch), Panjab University, Chandigarh
-- 🌱 I have successfully completed  , **Python from zero to hero** , **Machine Learning A-Z in python** and **Google Data Analytics Professional Certificate**
+- 🌱 I have also successfully completed: **Python from Zero to Hero: Mastered Python programming.**
+                                          **Google Data Analytics Professional Certification: Certified in Google Data Analytics.**
+                                          **AWS Certified Cloud Practitioner: Certified in AWS cloud computing fundamentals.**
+                                          **Machine Learning A-Z: AI, Python: Completed comprehensive ML course in Python.**
+                                          **Amazon Connect Complete Training Course: Completed training in Amazon Connect.**
 - 👯 I’m looking to collaborate on LinkedIn
 - 📫 How to reach me: LinkedIn - @https://www.linkedin.com/in/rahul-patel-933858175/
 - 😄 Pronouns: He/His
