@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rahul Patel
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Rahul Patel
 
 - 🔭 A Software Engineer at HCL Technologies with a passion for problem-solving and innovation.
       Skilled in Python, Data Science, Machine Learning & AI, SQL, Data Analytics, AWS, and DSA, with a strong
