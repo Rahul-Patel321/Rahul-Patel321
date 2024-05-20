@@ -11,7 +11,7 @@ I'm a dedicated Software Engineer at HCL Technologies with a fervent passion for
 
 - 🔭 Actively honing my skills in machine learning and data science.
 - 🌱 Continuously seeking knowledge and exploring new technologies.
-- 👯 Seeking to transition into a Data Scientist, Data Analyst, or Machine Learning Engineer role, leveraging my diverse experience and expertise gained as a Software Engineer at HCL Technologies. Eager to apply my proficiency in Python, Data Science, Machine Learning & AI, SQL, Data Analytics, AWS, and DSA to drive impactful solutions and contribute to the success of innovative projects within a dynamic team environment.
+- 👯 Seeking an opportunity as a Data Scientist, Data Analyst, or Machine Learning Engineer role, leveraging my diverse experience and expertise gained as a Software Engineer at HCL Technologies. Eager to apply my proficiency in Python, Data Science, Machine Learning & AI, SQL, Data Analytics, AWS, and DSA to drive impactful solutions and contribute to the success of innovative projects within a dynamic team environment.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I find solace in listening to 90's Bollywood songs!
 
