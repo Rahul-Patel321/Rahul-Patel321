@@ -5,7 +5,7 @@
 
 # Hello, I'm Rahul Patel! 👋
 
-I'm a dedicated Software Engineer at HCL Technologies, Possessing proficiency in Data Analysis, Python, MS Excel, and SQL, I bring a deep understanding of foundational data principles and analytics methodologies. Furthermore, I am skilled in advanced domains such as data science, machine learning & AI, AWS, and DSA. My commitment to continuous learning ensures that I remain abreast of emerging trends, enabling me to innovate and drive impactful business solutions. I'm currently enrolled in a comprehensive Complete Machine Learning & Data Science Program by GFG (Geeks For Geeks), where I delve into essential concepts and practical applications in Data Analysis, machine learning, and data science.
+**I'm a dedicated Software Engineer at HCL Technologies, Possessing proficiency in Data Analysis, Python, MS Excel, and SQL, I bring a deep understanding of foundational data principles and analytics methodologies. I also have expertise in Web Scraping, Tableau, and Streamlit for comprehensive data analysis and visualization. Additionally, I am skilled in advanced domains such as Data Science, Machine Learning & AI, AWS, and DSA. My commitment to continuous learning ensures that I remain abreast of emerging trends, enabling me to innovate and drive impactful business solutions. I'm currently enrolled in a comprehensive Complete Machine Learning & Data Science Program by GFG (Geeks For Geeks), where I delve into essential concepts and practical applications in Data Analysis, machine learning, and data science.** 
 
 ## About Me
 
