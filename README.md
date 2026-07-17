@@ -1,54 +1,154 @@
-<div align="right">
-  <a href="https://www.linkedin.com/in/rahul-patel-933858175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
-  <a href="https://rahul-patel321.github.io/RahulPatelAnalyst.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-9cf?style=flat-square&logo=github&logoColor=white" alt="Portfolio" height="30"/></a>
+<div align="center">
+
+# Rahul Patel 👋
+
+### Data Engineer | AWS | Apache Spark | PySpark | SQL | Python | Azure
+
+Building scalable cloud-native data platforms for Analytics, Reporting, and Business Intelligence.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-patel-data-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://codebasics.io/portfolio/RAHUL-PATEL">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:rahulpatelue188076@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-# Hello, I'm Rahul Patel! 👋
+---
 
-**I'm a dedicated Software Engineer at HCL Technologies, Possessing proficiency in Data Analysis, Python, MS Excel, and SQL, I bring a deep understanding of foundational data principles and analytics methodologies. I also have experience in Web Scraping, and Power BI for comprehensive data analysis and visualization. Additionally, I am skilled in advanced domains such as Data Science, Machine Learning & AI, AWS, and DSA. My commitment to continuous learning ensures that I remain abreast of emerging trends, enabling me to innovate and drive impactful business solutions. I'm currently enrolled in a comprehensive Complete Machine Learning & Data Science Program by GFG (Geeks For Geeks), where I delve into essential concepts and practical applications in Data Analysis, machine learning, and data science.** 
+# 👨‍💻 About Me
 
-## About Me
+- 💼 Data Engineer with **4 years of experience** designing and building scalable cloud-based data engineering solutions.
+- 🚀 Currently working at **Biz2Credit** as part of the **Data Engineering & Reporting** team.
+- ☁️ Experienced in building ETL/ELT pipelines using **AWS Glue, Amazon Redshift, Amazon S3, Athena, EMR, MWAA (Airflow), Lambda, Step Functions, Spark, SQL and Python.**
+- 📊 Strong expertise in **Data Modeling, Data Warehousing, Data Quality, Performance Optimization, Automation and Power BI Reporting.**
+- 🔄 Previously worked on enterprise data platforms for **HDFC Digital Banking** and **Microsoft Bing Analytics**.
+- 🌱 Currently preparing for **Databricks Certified Data Engineer Associate**.
+- 📍 Based in **Noida, Uttar Pradesh, India**.
 
-- 🔭 Actively hones skills in Python, Data Analysis, SQL, machine learning, and data science.
-- 🌱 Continuously seeks knowledge and explores emerging trends in technology, maintaining a commitment to ongoing learning and professional development.
-- 👯 Seeking an opportunity as a Data Analyst, Business Analyst, or Data Scientist role, leveraging my diverse experience and expertise gained as a Software Engineer at HCL Technologies. Eager to apply my proficiency in Data Analysis, Python, MS Excel, and SQL Data Science, Machine Learning & AI, AWS, and DSA to drive impactful solutions and contribute to the success of innovative projects within a dynamic team environment.
-- ⚡ Applies comprehensive expertise in Python, Data Science, Machine Learning & AI, SQL, Data Analytics, AWS, and DSA to contribute to innovative projects and deliver tangible results.
-- ☀️ Aims to collaborate within dynamic team environments, leveraging skills and experience to drive forward-thinking solutions and achieve collective success.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I find solace in listening to 90's Bollywood songs!
+---
 
-## Skills
+# 🛠 Tech Stack
 
+### Programming Languages
 
-<!-- HTML Skill Badges -->
-<a href="#" title="Python"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30" class="skill-badge"/></a>
-<a href="#" title="Data Science"><img src="https://img.shields.io/badge/-Data%20Science-4E96DB?style=flat-square&logo=data-science&logoColor=white" alt="Data Science" height="30" class="skill-badge"/></a>
-<a href="#" title="Machine Learning"><img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=machine-learning&logoColor=white" alt="Machine Learning" height="30" class="skill-badge"/></a>
-<a href="#" title="SQL"><img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="30" class="skill-badge"/></a>
-<a href="#" title="Data Analytics"><img src="https://img.shields.io/badge/-Data%20Analytics-4285F4?style=flat-square&logo=google-analytics&logoColor=white" alt="Data Analytics" height="30" class="skill-badge"/></a>
-<a href="#" title="AWS"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="30" class="skill-badge"/></a>
-<a href="#" title="DSA"><img src="https://img.shields.io/badge/-DSA-007396?style=flat-square&logo=data-structures&logoColor=white" alt="DSA" height="30" class="skill-badge"/></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Certifications
+### Big Data
 
-- **Complete Machine Learning & Data Science Program by GFG:** This program covers essential concepts and practical applications in machine learning and data science, equipping me with the skills needed to excel in these domains.
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-0052CC?style=flat-square)
+![ELT](https://img.shields.io/badge/ELT-0052CC?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00897B?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-00695C?style=flat-square)
 
-- **Python from Zero to Hero:** Mastery of Python programming is crucial for various tasks in software engineering, data analysis, and machine learning.
+### AWS
 
-- **Google Data Analytics Professional Certification:** Certified in Google data analytics, demonstrating proficiency in analyzing and interpreting data to make informed business decisions.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square)
+![AWS Glue](https://img.shields.io/badge/Glue-FF9900?style=flat-square)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square)
+![Amazon Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square)
+![Amazon EMR](https://img.shields.io/badge/EMR-232F3E?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
+![MWAA](https://img.shields.io/badge/MWAA-Airflow-017CEE?style=flat-square)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square)
 
-- **AWS Certified Cloud Practitioner:** Certified in AWS cloud computing fundamentals, showcasing competency in cloud architecture, security, and deployment.
+### Azure
 
-- **Machine Learning A-Z: AI, Python:** Completion of a comprehensive machine learning course in Python, providing in-depth knowledge and practical skills in artificial intelligence and machine learning.
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
+![Azure Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat-square)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square)
+![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A84FF?style=flat-square)
 
-- **Amazon Connect Complete Training Course:** Training in Amazon Connect, an essential skill for building and managing customer contact centers effectively.
+### Databases
 
-## Education
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- Bachelor of Engineering in Information Technology from UIET, Panjab University, Chandigarh
+### Reporting
 
-## How to Reach Me
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>](https://www.linkedin.com/in/rahul-patel-933858175/) [<img src="https://img.shields.io/badge/-Portfolio-9cf?style=flat-square&logo=github&logoColor=white" alt="Portfolio" height="30"/>](https://rahul-patel321.github.io/RahulPatelAnalyst.github.io/)
+---
 
-Feel free to reach out to explore potential collaborations or simply to connect! 😊
+# 🚀 Featured Projects
+
+## 🔹 HDFC Digital Banking – Data Engineering
+
+- Developed scalable ETL/ELT pipelines for Digital Banking analytics.
+- Built data pipelines using Azure Data Factory, Azure Databricks, Apache Spark and SQL.
+- Processed streaming data from Apache Kafka and Google Cloud Pub/Sub.
+- Designed Delta Lake data models and analytics-ready datasets for Power BI.
+
+---
+
+## 🔹 Microsoft Bing Analytics
+
+- Developed Azure-based ETL pipelines and analytical datasets.
+- Built scalable data transformation workflows using Azure Data Factory and Databricks.
+- Delivered business-ready datasets for enterprise reporting and Power BI dashboards.
+
+---
+
+## 🔹 Tokyo Olympics Data Engineering
+
+Cloud-native Data Engineering project built using:
+
+- Azure Data Factory
+- Azure Data Lake Gen2
+- Azure Databricks
+- Azure Synapse Analytics
+- Apache Spark
+- Power BI
+
+---
+
+## 🔹 Business Insights 360
+
+Enterprise Power BI dashboard providing insights across:
+
+- Finance
+- Sales
+- Marketing
+- Supply Chain
+- Executive Analytics
+
+---
+
+# 📜 Certifications
+
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Google Data Analytics Professional Certificate
+- ✅ Data Engineering (Azure) – Skillsoft
+- ✅ Power BI Data Analytics – Codebasics
+- ✅ SQL Bootcamp – Udemy
+- ✅ Python Bootcamp – Udemy
+- 🚀 Databricks Certified Data Engineer Associate *(In Progress)*
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**  
+rahulpatelue188076@gmail.com
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/rahul-patel-data-engineer/
+
+🌐 **Portfolio**  
+https://codebasics.io/portfolio/RAHUL-PATEL
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
