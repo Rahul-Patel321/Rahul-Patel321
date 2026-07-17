@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Rahul-Patel321&label=Profile%20Views&color=0e75b6&style=flat)
-
-
+```markdown
 <div align="center">
 
 # Rahul Patel 👋
@@ -8,6 +6,8 @@
 ### Data Engineer | AWS | Apache Spark | PySpark | SQL | Python | Azure
 
 Building scalable cloud-native data platforms for Analytics, Reporting, and Business Intelligence.
+
+![](https://komarev.com/ghpvc/?username=Rahul-Patel321&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-patel-data-engineer/">
@@ -29,12 +29,12 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 
 # 👨‍💻 About Me
 
-- 💼 Data Engineer with **4 years of experience** designing and building scalable cloud-based data engineering solutions.
+- 💼 Data Engineer with **4 years of experience** building scalable cloud-native data engineering solutions across **AWS** and **Azure**.
 - 🚀 Currently working at **Biz2Credit** as part of the **Data Engineering & Reporting** team.
-- ☁️ Experienced in building ETL/ELT pipelines using **AWS Glue, Amazon Redshift, Amazon S3, Athena, EMR, MWAA (Airflow), Lambda, Step Functions, Spark, SQL and Python.**
-- 📊 Strong expertise in **Data Modeling, Data Warehousing, Data Quality, Performance Optimization, Automation and Power BI Reporting.**
+- ☁️ Experienced in building ETL/ELT pipelines using **AWS Glue, Amazon Redshift, Amazon S3, Athena, EMR, MWAA (Airflow), Lambda, Step Functions, Spark, SQL, and Python**.
+- 📊 Skilled in **Data Modeling, Data Warehousing, Performance Optimization, Data Quality, Workflow Automation, CI/CD and Power BI**.
 - 🔄 Previously worked on enterprise data platforms for **HDFC Digital Banking** and **Microsoft Bing Analytics**.
-- 🌱 Currently preparing for **Databricks Certified Data Engineer Associate**.
+- 🌱 Currently preparing for the **Databricks Certified Data Engineer Associate** certification.
 - 📍 Based in **Noida, Uttar Pradesh, India**.
 
 ---
@@ -46,7 +46,7 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Big Data
+### Big Data & Data Engineering
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
@@ -87,71 +87,89 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 
 ---
 
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-Patel321&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Patel321&layout=compact&theme=default&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-Patel321&theme=default&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Patel321&theme=github-compact"/>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul-Patel321&theme=flat&margin-w=10&no-frame=true"/>
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-## 🔹 HDFC Digital Banking – Data Engineering
+### 🔹 HDFC Digital Banking – Data Engineering
 
-- Developed scalable ETL/ELT pipelines for Digital Banking analytics.
-- Built data pipelines using Azure Data Factory, Azure Databricks, Apache Spark and SQL.
-- Processed streaming data from Apache Kafka and Google Cloud Pub/Sub.
-- Designed Delta Lake data models and analytics-ready datasets for Power BI.
+Enterprise-grade ETL/ELT pipelines for digital banking analytics using Azure Data Factory, Azure Databricks, Apache Spark, SQL, Kafka, Delta Lake, and Power BI.
 
 ---
 
-## 🔹 Microsoft Bing Analytics
+### 🔹 Microsoft Bing Analytics
 
-- Developed Azure-based ETL pipelines and analytical datasets.
-- Built scalable data transformation workflows using Azure Data Factory and Databricks.
-- Delivered business-ready datasets for enterprise reporting and Power BI dashboards.
+Azure-based data engineering pipelines and analytical datasets supporting enterprise reporting and business intelligence.
 
 ---
 
-## 🔹 Tokyo Olympics Data Engineering
+### 🔹 Tokyo Olympics Data Engineering
 
-Cloud-native Data Engineering project built using:
-
-- Azure Data Factory
-- Azure Data Lake Gen2
-- Azure Databricks
-- Azure Synapse Analytics
-- Apache Spark
-- Power BI
+Cloud-native data pipeline built using Azure Data Factory, Azure Databricks, Azure Data Lake, Synapse Analytics, and Power BI.
 
 ---
 
-## 🔹 Business Insights 360
+### 🔹 Business Insights 360
 
-Enterprise Power BI dashboard providing insights across:
-
-- Finance
-- Sales
-- Marketing
-- Supply Chain
-- Executive Analytics
+Enterprise Power BI dashboard providing finance, sales, marketing, supply chain, and executive analytics.
 
 ---
 
 # 📜 Certifications
 
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Google Data Analytics Professional Certificate
-- ✅ Data Engineering (Azure) – Skillsoft
-- ✅ Power BI Data Analytics – Codebasics
-- ✅ SQL Bootcamp – Udemy
-- ✅ Python Bootcamp – Udemy
-- 🚀 Databricks Certified Data Engineer Associate *(In Progress)*
+- AWS Certified Cloud Practitioner
+- Google Data Analytics Professional Certificate
+- Data Engineering (Azure) – Skillsoft
+- Power BI Data Analytics – Codebasics
+- SQL Bootcamp – Udemy
+- Python Bootcamp – Udemy
+- Databricks Certified Data Engineer Associate *(In Progress)*
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**  
-rahulpatelue188076@gmail.com
+- 📧 **Email:** rahulpatelue188076@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rahul-patel-data-engineer/
+- 🌐 **Portfolio:** https://codebasics.io/portfolio/RAHUL-PATEL
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/rahul-patel-data-engineer/
+---
 
-🌐 **Portfolio**  
-https://codebasics.io/portfolio/RAHUL-PATEL
-
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+```
