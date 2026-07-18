@@ -2,7 +2,7 @@
 
 # Rahul Patel 👋
 
-### Data Engineer | AWS | Apache Spark | PySpark | SQL | Python | Azure
+### Data Engineer | AWS | Azure | Apache Spark | PySpark | SQL | Python
 
 Building scalable cloud-native data platforms for Analytics, Reporting, and Business Intelligence.
 
@@ -26,13 +26,26 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 
 # 👨‍💻 About Me
 
-- 💼 Data Engineer with **4 years of experience** designing and building scalable cloud-based data engineering solutions.
-- 🚀 Currently working at **Biz2Credit** as part of the **Data Engineering & Reporting** team.
-- ☁️ Experienced in building ETL/ELT pipelines using **AWS Glue, Amazon Redshift, Amazon S3, Athena, EMR, MWAA (Airflow), Lambda, Step Functions, Spark, SQL and Python.**
-- 📊 Strong expertise in **Data Modeling, Data Warehousing, Data Quality, Performance Optimization, Automation and Power BI Reporting.**
-- 🔄 Previously worked on enterprise data platforms for **HDFC Digital Banking** and **Microsoft Bing Analytics**.
+- 💼 Data Engineer with **~4 years of experience** designing and building scalable cloud-based data engineering solutions across **AWS and Azure**.
+- 🚀 Currently at **Biz2Credit**, on the **Data Engineering & Reporting** team, building AWS-based ETL/ELT pipelines for fintech analytics.
+- 🏦 Previously built real-time and batch pipelines for **HDFC Digital Banking** (Net/Mobile Banking) at NexGen Tech Solutions — Azure Databricks, Delta Lake, Kafka, Google Cloud Pub/Sub.
+- 📊 Earlier delivered enterprise analytics for **Microsoft Bing Analytics** at HCLTech, progressing from Graduate Engineering Trainee → Software Engineer → Data Engineer.
+- ☁️ Strong expertise in ETL/ELT pipeline design, Data Modeling, Data Warehousing, Streaming Ingestion, Performance Optimization, Data Quality, CI/CD, and Power BI Reporting.
 - 🌱 Currently preparing for **Databricks Certified Data Engineer Associate**.
+- 🎓 B.E. in Information Technology, Panjab University, Chandigarh.
 - 📍 Based in **Noida, Uttar Pradesh, India**.
+
+---
+
+# 🧭 Experience
+
+| Company | Role | Duration |
+|---|---|---|
+| **Biz2Credit** | Data Engineer | Feb 2026 – Present |
+| **NexGen Tech Solutions** | Data Engineer | Feb 2025 – Feb 2026 |
+| **HCLTech** | Data Engineer | Jan 2024 – Jan 2025 |
+| **HCLTech** | Software Engineer | Mar 2023 – Dec 2023 |
+| **HCLTech** | Graduate Engineering Trainee | Oct 2022 – Mar 2023 |
 
 ---
 
@@ -43,10 +56,11 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Big Data
+### Big Data & Streaming
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-0052CC?style=flat-square)
 ![ELT](https://img.shields.io/badge/ELT-0052CC?style=flat-square)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00897B?style=flat-square)
@@ -63,6 +77,7 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
 ![MWAA](https://img.shields.io/badge/MWAA-Airflow-017CEE?style=flat-square)
 ![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square)
 
 ### Azure
 
@@ -78,28 +93,38 @@ Building scalable cloud-native data platforms for Analytics, Reporting, and Busi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Reporting
+### Reporting & DevOps
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 HDFC Digital Banking – Data Engineering
+## 🔹 HDFC Digital Banking – Real-Time Data Engineering
 
-- Developed scalable ETL/ELT pipelines for Digital Banking analytics.
-- Built data pipelines using Azure Data Factory, Azure Databricks, Apache Spark and SQL.
-- Processed streaming data from Apache Kafka and Google Cloud Pub/Sub.
-- Designed Delta Lake data models and analytics-ready datasets for Power BI.
+- Built real-time ingestion pipelines using Kafka & Google Cloud Pub/Sub for high-volume banking transactions.
+- Enhanced a 3-layer Delta Lakehouse (Staging–Curated–Service) in Azure Databricks for scalability and analytics readiness.
+- Implemented PySpark transformations for Net Banking & Mobile Banking analytics.
+- Applied data governance, security, and compliance standards for financial data pipelines.
 
 ---
 
 ## 🔹 Microsoft Bing Analytics
 
-- Developed Azure-based ETL pipelines and analytical datasets.
+- Developed Azure-based ETL pipelines and analytical datasets for enterprise reporting.
 - Built scalable data transformation workflows using Azure Data Factory and Databricks.
-- Delivered business-ready datasets for enterprise reporting and Power BI dashboards.
+- Delivered business-ready datasets for Power BI dashboards.
+
+---
+
+## 🔹 Business Insights 360 (AtliQ Hardware)
+
+- Designed a multi-view Power BI dashboard across 6 departments (sales, finance, supply chain, executive, marketing, products).
+- Loaded 1M+ records from MySQL and Excel with full data modeling.
+- Optimized with DAX Studio — 30% storage savings, 10% performance improvement.
 
 ---
 
@@ -113,18 +138,6 @@ Cloud-native Data Engineering project built using:
 - Azure Synapse Analytics
 - Apache Spark
 - Power BI
-
----
-
-## 🔹 Business Insights 360
-
-Enterprise Power BI dashboard providing insights across:
-
-- Finance
-- Sales
-- Marketing
-- Supply Chain
-- Executive Analytics
 
 ---
 
@@ -142,13 +155,13 @@ Enterprise Power BI dashboard providing insights across:
 
 # 📫 Connect With Me
 
-📧 **Email**  
+📧 **Email**
 rahulpatelue188076@gmail.com
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
 https://www.linkedin.com/in/rahul-patel-data-engineer/
 
-🌐 **Portfolio**  
+🌐 **Portfolio**
 https://codebasics.io/portfolio/RAHUL-PATEL
 
 ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
